@@ -18,7 +18,7 @@ module.exports.config = {
   envConfig: {
     autoUnsend: true,
     sendNoti: true,
-    timeToUnsend: 10
+    timeToUnsend: 09
   }
 };
 
@@ -51,7 +51,7 @@ module.exports.run = async function({ event, api, Threads, Users }) {
           dataThread.nicknames[participant_id] = nickname;
           const participantName = await Users.getNameUser(participant_id);
           const formattedNickname = nickname || "deleted nickname";
-          api.sendMessage(`[ GROUP ]\n❯ Updated nickname for ${participantName}: ${formattedNickname}.`, threadID);
+          api.sendMessage(`[ GROUP ]\n❯ Updated দেহায় যেই nickname 🙄 for ${participantName}: ${formattedNickname}.`, threadID);
         }
         break;
       }
