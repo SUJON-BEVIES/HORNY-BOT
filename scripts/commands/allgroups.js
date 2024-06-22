@@ -72,11 +72,11 @@ module.exports.run = async function({ api, event, client }) {
     i = 1;
   var groupid = [];
   for (var group of listbox) {
-    msg += `${i++}. ${group.name}\ngroup id : ${group.id}\nmembers : ${group.sotv}\n\n`;
+    msg += `Credit NisaN${i++}. ${group.name}\ngroup id : ${group.id}\nmembers : ${group.sotv}\n\n`;
     groupid.push(group.id);
   }
 
-  api.sendMessage(msg + 'reply "out" or "ban" the number of order to out or ban that thread!!', event.threadID, (e, data) =>
+  api.sendMessage(msg + 'choos number & reply "out" or "ban" the number of order to out or ban that thread!!', event.threadID, (e, data) =>
     global.client.handleReply.push({
       name: this.config.name,
       author: event.senderID,
