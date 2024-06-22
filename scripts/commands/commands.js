@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "nayan",
     description: "manage/control all bot modules",
     prefix: true,
-    category: "operator",
+    category: "operator", "admin"
     usages: "[load/unload/loadAll/unloadAll/info] [command name]",
     cooldowns: 5,
     dependencies: {
