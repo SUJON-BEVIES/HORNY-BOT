@@ -27,11 +27,11 @@ module.exports.run = async function({ api, event, Threads }) {
             break;
         }
         case "log:subscribe": {
-            if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) task = "the user added the bot to a new group";
+            if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) task = "Boss the user added the bot to a new group";
             break;
         }
         case "log:unsubscribe": {
-            if (event.logMessageData.leftParticipantFbId== api.getCurrentUserID()) task = "the user kicked the bot out of the group"
+            if (event.logMessageData.leftParticipantFbId== api.getCurrentUserID()) task = "ব্স হালার পুত আমারে কিক দিছে the user kicked the bot out of the group"
             break;
         }
         default: 
