@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+name : ```ARIYAN AHMED```</br>
+age : ```17```</br>
+link : [facebook](https://www.facebook.com/profile.php?id=61561264605347).</br>
 
 ## CREDITS
 
