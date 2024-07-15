@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "mumuu-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61561264605347",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "61561264605347",
     ""
   ],
   "OWNER": ["100000959749712"], 
