@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```Nisan Developer```</br>
-age : ```19```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=61556196058001).</br>
+name : ```Ariyan Developer```</br>
+age : ```17```</br>
+link : [facebook](https://www.facebook.com/profile.php?id=61561264605347).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NISAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nisan Developer```
+modified : [ARIYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Ariyan Developer```
 
 ## CONFIG AND CUSTOM
 
