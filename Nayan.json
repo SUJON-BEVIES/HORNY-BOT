@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "mumuu-bot",
-  "PREFIX": "/",
+  "BOTNAME": "HORNY-ROBOT",
+  "PREFIX": ".",
   "OPERATOR": [
-    "61561264605347",
-    ""
+    "61564055655700",
+    "61561264605347"
   ],
   "ADMINBOT": [
-    "61561264605347",
-    ""
+    "61564055655700",
+    "61561264605347"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
