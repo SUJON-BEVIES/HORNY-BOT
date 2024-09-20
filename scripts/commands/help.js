@@ -5,7 +5,7 @@ module.exports.config = {
   name: "help",
   version: "1.0.2",
   permission: 0,
-  credits: "NAYAN",
+  credits: "HORNY",
   description: "beginner's guide",
   prefix: true,
   category: "guide",
@@ -89,10 +89,10 @@ let path = __dirname + `/cache/help.png`;
   fs.writeFileSync(path, Buffer.from(image, "utf-8"));*/
 
 
-    const text = `HORNY ROBOT
+    const text = `HORNY ROBOT🥵🫦
     
     ╰➤ 𝗧𝗢𝗧𝗔𝗟 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 ${arrayInfo.length}\n𝗨𝗦𝗘【 ${prefix}Help 】𝐏𝐀𝐆𝐄 𝐍𝐎.\n╰➤ «𝐍𝐔𝐌𝐁𝐄𝐑 𝐎𝐅 𝐏𝐀𝐆𝐄» ${page}
-╰➤ https://facebook.com/61564055655700`;
+╰➤ https://facebook.com/61561264605347`;
     return api.sendMessage(`╭──«~»──CMD──«~»──╮\n\nPAGE ${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)}` + "\n" + msg + "\n" + text, threadID, async (error, info) => {
       if (autoUnsend) {
         await new Promise(resolve => setTimeout(resolve, delayUnsend * 100000));
